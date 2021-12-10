@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsDecoding
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding, obviously
 - 🌱 I’m currently learning Python and HTML
 - 📫 You can reach me by e-mailing me on this adress:"IsraaOmrani1412@gmail.com"
 <!---
