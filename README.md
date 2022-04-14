@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsDecoding
+- 👋 Hi, I’m @Nightdecodes
 - 👀 I’m interested in coding, obviously
 - 🌱 I’m currently learning Python, HTML,CSS, JS and JAVA.
 - 📫 You can reach me by e-mailing me on this adress:"IsraaOmrani1412@gmail.com"
